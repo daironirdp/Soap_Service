@@ -1,4 +1,4 @@
-## This is a simple webservice using SOAP protocol👇
+## This is a webservice using SOAP protocol👇
 
 
 *This web page allows us to calculate the temperature between Celsius and Fahrenheit*
